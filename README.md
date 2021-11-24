@@ -27,7 +27,7 @@ Learn about the dataset:
 - Prediction
 
 ## Findings:
-- The Gradient Bosting Classifier seems to be the best classifer with the highest accuracy score (84%). However, we can notice that there was an overfit in the traning set which was reduced after hyperparameter tuning.
+- The Gradient Boosting Classifier seems to be the best classifer with the highest accuracy score (84%). However, we can notice that there was an overfit in the traning set which was reduced after hyperparameter tuning.
 - Although the accurracy scores for both the Gradient Bosting Classifier & RandomForest Classifier are the same, it is important to note that the Gradient Bosting Classifier had a higher Average accuracy score (81%) compared to the RandomForest classifer. 
 
 ## Future Work
