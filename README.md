@@ -1,3 +1,5 @@
+[![Python versions](https://img.shields.io/pypi/pyversions/diffprivlib.svg)](https://pypi.org/project/diffprivlib/)
+
 # Titanic
 This dataset has passenger information who boarded the Titanic. The Titanic sank after colliding with an iceberg. The dataset includes information like survival status, Class, Fare, and other variables. 
 
