@@ -35,7 +35,9 @@ Learn about the dataset:
 
 
 # Installation and Usage 
-Fork/Download this project and run the 
+- Python 3 and pip.
+- Set up a virtual environment (optional, but recommended).
+- Install dependencies using pip: pip install -r requirements.txt.
 
 
 
